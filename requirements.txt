@@ -3,3 +3,4 @@ torch==2.6.0
 unidic-lite==1.0.8
 fugashi==1.4.0
 flask==3.1.0
+sentencepiece==0.2.0
